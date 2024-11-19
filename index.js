@@ -1,3 +1,6 @@
-import main from './src/index.js';
-
-main();
+const greeting = (name) => {
+    console.log(`${name}`);
+  }
+  
+  greeting('Olesya');
+  
